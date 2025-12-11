@@ -70,7 +70,7 @@ export default function LoginPage() {
             <button
                 onClick={onLogin}
                 className="p-2 border border-gray-300 rounded-lg mb-4 focus:outline-none">
-                Signup
+                Login
             </button>
             <Link href="/signup">Don't have account yet? Signup</Link>
         </div>
